@@ -1,11 +1,10 @@
 # ksh-details
 
+KyaSceneHai is an event managment and food ordering app.
 
-Its an event managment and food ordering app.
+This app let the user search nearby event, book tables or buy event tickets.
 
-This app let the user search nearby event and give him facility to book or buy event tickets and table.
-
-Beside this user can order the food from resturant also that are listed in app.
+Beside this user can order the food from resturant that is listed in this app.
 
 To check <b>android version</b> <a href="https://play.google.com/store/apps/details?id=com.ksh_app">Click here</a>
 
